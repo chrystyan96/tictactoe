@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{016F9D56-A571-4421-9FE2-008C96CB9739}"
+	ProjectSection(SolutionItems) = preProject
+		GameForm.cs = GameForm.cs
+		Main.cs = Main.cs
+		ResizeForBorderlessForm.cs = ResizeForBorderlessForm.cs
+		SocketManagement.cs = SocketManagement.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A43AA042-8DF7-4661-86F2-6F89E39F1AA4}
+	EndGlobalSection
+EndGlobal
